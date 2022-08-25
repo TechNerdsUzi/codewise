@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233" height="68" viewBox="0 0 233 68">
+  <g id="Group_208" data-name="Group 208" transform="translate(-83 -39.571)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="16" cy="15.5" rx="16" ry="15.5" transform="translate(132 55.572)" fill="#3251ce"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="15.5" cy="15.5" r="15.5" transform="translate(148 55.572)" fill="#7187e1" style="mix-blend-mode: color-burn;isolation: isolate"/>
+    <text id="C" transform="translate(83 91.571)" fill="#707070" font-size="54" font-family="Now-Bold, Now" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+    <text id="dwise" transform="translate(168 88.571)" fill="#707070" font-size="53" font-family="Now-Bold, Now" font-weight="700"><tspan x="0" y="0">d</tspan><tspan y="0" fill="#3251ce" font-family="Now-Regular, Now" font-weight="400">wise</tspan></text>
+  </g>
+</svg>
